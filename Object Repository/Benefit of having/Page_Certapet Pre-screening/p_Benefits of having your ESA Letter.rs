@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Benefits of having your ESA Letter</name>
+   <tag></tag>
+   <elementGuidId>62772709-89c2-4234-bd2f-d87e3800c854</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.h1.part-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c9e8e148-f82a-402e-b5f7-5ffabb8e92b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h1 part-title</value>
+      <webElementGuid>90596b13-f11b-44fa-bc5f-8900c7cc7de3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Benefits of having your ESA Letter</value>
+      <webElementGuid>48b26650-3aea-4688-940c-588808b23d4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-container survey survey-housing&quot;]/div[@class=&quot;container main-content&quot;]/div[@class=&quot;part-header text-center&quot;]/p[@class=&quot;h1 part-title&quot;]</value>
+      <webElementGuid>835ba2f4-6d4a-447b-922e-e8e250c5bcc2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/p</value>
+      <webElementGuid>c09fcbcd-9323-4534-a90a-0d1e818b469f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='waive pet fees'])[1]/preceding::p[1]</value>
+      <webElementGuid>04d7feae-2b26-442a-80d5-2de9091f3143</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Benefits of having your ESA Letter']/parent::*</value>
+      <webElementGuid>26736a6c-e2f0-4281-aa68-0cef4664dd8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>1d3d52be-4c56-4991-9b60-1ce1f96506e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Benefits of having your ESA Letter' or . = 'Benefits of having your ESA Letter')]</value>
+      <webElementGuid>025e7d9b-7757-46ec-97a0-4d38cb74e640</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

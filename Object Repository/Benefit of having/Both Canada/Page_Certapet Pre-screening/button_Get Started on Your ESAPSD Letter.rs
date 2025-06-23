@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Get Started on Your ESAPSD Letter</name>
+   <tag></tag>
+   <elementGuidId>ec6663b7-aba4-42ce-8528-a8d267e674aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-red.btn-cta.btn-cta--get-started</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>4d08b320-0c63-4d99-b940-c9be2ac80e5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-red btn-cta btn-cta--get-started</value>
+      <webElementGuid>8dc8fd7f-6f56-40a9-a7ed-3730a92e212f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get Started on Your ESA/PSD Letter</value>
+      <webElementGuid>2e00b0e2-e53e-461c-9c0c-1dc8d6d5dad8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-container homepage&quot;]/div[@class=&quot;row justify-content-center&quot;]/div[@class=&quot;col-10 text-center p-0&quot;]/button[@class=&quot;btn btn-red btn-cta btn-cta--get-started&quot;]</value>
+      <webElementGuid>9e513b72-ebb5-4c63-9151-88f4be338306</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/button</value>
+      <webElementGuid>8b33cd59-1091-4f52-b599-e511005ba9f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Board-Certified Mental Health Professionals'])[1]/following::button[1]</value>
+      <webElementGuid>b6ef57e7-00a4-4828-9c16-1de7b1c53e0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HIPAA compliant'])[1]/following::button[1]</value>
+      <webElementGuid>eda29dc8-c632-479a-943b-a47d60d1ff25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get Started on Your ESA/PSD Letter']/parent::*</value>
+      <webElementGuid>00213d4a-104c-46f1-b4af-0b25d3d901b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>40297778-7c74-43fa-9ba1-aff2baef23b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Get Started on Your ESA/PSD Letter' or . = 'Get Started on Your ESA/PSD Letter')]</value>
+      <webElementGuid>348e2dcd-f08c-4a2c-abad-3745772c6382</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

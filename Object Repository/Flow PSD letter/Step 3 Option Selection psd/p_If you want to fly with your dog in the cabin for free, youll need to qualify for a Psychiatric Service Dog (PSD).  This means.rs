@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_If you want to fly with your dog in the cabin for free, youll need to qualify for a Psychiatric Service Dog (PSD).  This means</name>
+   <tag></tag>
+   <elementGuidId>76b86714-2220-4e74-9977-0733126f5154</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div/p[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>40b922d6-a5d3-47e5-9dc9-b46d9bf76925</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-start</value>
+      <webElementGuid>8c19452d-c7e2-4d20-aad2-7a6e2c5ae6b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>If you want to fly with your dog in the cabin for free, you'll need to qualify for a Psychiatric Service Dog (PSD).  This means:</value>
+      <webElementGuid>ca0b051a-0c1e-48bd-af3e-89938665ae5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-container survey survey-travel&quot;]/div[@class=&quot;container main-content&quot;]/div[@class=&quot;part-header text-center&quot;]/div[@class=&quot;col-12 col-md-8 offset-md-2&quot;]/p[@class=&quot;text-start&quot;]</value>
+      <webElementGuid>03fc562a-2ceb-4c3c-8e3b-6a9c7b45398e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/p[3]</value>
+      <webElementGuid>144edace-e7f2-4052-afc9-0b4d585ddc1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have a mental health condition, and'])[1]/preceding::p[1]</value>
+      <webElementGuid>291cc912-e31b-44c2-9fa9-bbb9813eed9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='If you want to fly with your']/parent::*</value>
+      <webElementGuid>b8fb9f85-023f-4caa-ad10-4008aa79084a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]</value>
+      <webElementGuid>33cafa92-4503-40a9-86aa-546ee68e0342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = concat(&quot;If you want to fly with your dog in the cabin for free, you&quot; , &quot;'&quot; , &quot;ll need to qualify for a Psychiatric Service Dog (PSD).  This means:&quot;) or . = concat(&quot;If you want to fly with your dog in the cabin for free, you&quot; , &quot;'&quot; , &quot;ll need to qualify for a Psychiatric Service Dog (PSD).  This means:&quot;))]</value>
+      <webElementGuid>39d94e31-c6f5-4cc6-b9a0-7da7888d1755</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

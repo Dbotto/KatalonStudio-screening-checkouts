@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Dog</name>
+   <tag></tag>
+   <elementGuidId>90d5be81-6603-4ca0-a7d7-a140c9a21390</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.option-card-title.option-card-title-small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div[3]/div/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>b24d462b-3660-4dcc-8536-a815e7af2fe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>option-card-title option-card-title-small</value>
+      <webElementGuid>1d77fda2-40ca-45c8-add7-5984782208d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dog</value>
+      <webElementGuid>cb286863-af4c-4e40-a749-ba52ff3152c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-container survey survey-housing&quot;]/div[@class=&quot;container main-content&quot;]/div[@class=&quot;part-content part-content-block&quot;]/div[@class=&quot;options-container options-container-images form-section form-section-multiple form-section-multiple-image&quot;]/div[@class=&quot;option-card&quot;]/div[@class=&quot;option-card-content&quot;]/h3[@class=&quot;option-card-title option-card-title-small&quot;]</value>
+      <webElementGuid>01429019-fdf2-4b0f-86c3-9c68eb08c9e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div[3]/div/div/h3</value>
+      <webElementGuid>49e01e43-223b-4eb8-8235-bc4a4647523c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What type of pet do you have?'])[1]/following::h3[1]</value>
+      <webElementGuid>5056b61e-0abe-4ded-ad8a-d859fa68a2ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Age (Must be over 18)'])[1]/following::h3[1]</value>
+      <webElementGuid>b7a0c70b-453c-4bd7-b6c9-888d9948e0a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cat'])[1]/preceding::h3[1]</value>
+      <webElementGuid>204166c5-c280-4f68-9498-6843719b1cd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rabbit'])[1]/preceding::h3[2]</value>
+      <webElementGuid>e3b5a7de-7730-458b-8d3d-8ca7eeeaf679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dog']/parent::*</value>
+      <webElementGuid>3d2d6c0d-9cd0-4e83-ba25-4209165c6730</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>d32ab828-f626-4bf1-ba6b-851ef00694da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Dog' or . = 'Dog')]</value>
+      <webElementGuid>3ca7a720-af0f-4d51-8dfc-cfbb1c2ec1a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

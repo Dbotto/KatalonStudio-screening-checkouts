@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Air Travel Access In Canada, only dogs (Emotional Support Dogs) may qualify for air travel. ESDs must meet airline and government requirements, including advance documentation and an airline-approved carrier. Please s</name>
+   <tag></tag>
+   <elementGuidId>cfe5a5a1-d851-4ef8-9a23-b38ac4dd4768</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/ol/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>d1e43860-a8d3-4bca-b7a8-bf381c53156c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Air Travel Access: In Canada, only dogs (Emotional Support Dogs) may qualify for air travel. ESDs must meet airline and government requirements, including advance documentation and an airline-approved carrier. Please see each carrier's stipulations for sizing of carriers.</value>
+      <webElementGuid>b9797c5e-5668-4686-85b0-fd305d65ceab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-container survey survey-travel&quot;]/div[@class=&quot;container main-content&quot;]/div[@class=&quot;part-content&quot;]/ol[@class=&quot;bullets&quot;]/li[1]</value>
+      <webElementGuid>1df3d6b3-bfe2-4d24-ade0-194c8c3b3783</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/ol/li</value>
+      <webElementGuid>7d96f1a9-c789-4581-82ba-9797e80f6116</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='reduce anxiety and stress'])[1]/preceding::li[1]</value>
+      <webElementGuid>77dd37b1-eacd-4412-bf64-bc9e4f9bb510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Air Travel Access: In Canada,']/parent::*</value>
+      <webElementGuid>98e51d42-84f0-448e-a093-6dc11e47461f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>7a84705f-facb-4c21-8604-17c71e47967f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = concat(&quot;Air Travel Access: In Canada, only dogs (Emotional Support Dogs) may qualify for air travel. ESDs must meet airline and government requirements, including advance documentation and an airline-approved carrier. Please see each carrier&quot; , &quot;'&quot; , &quot;s stipulations for sizing of carriers.&quot;) or . = concat(&quot;Air Travel Access: In Canada, only dogs (Emotional Support Dogs) may qualify for air travel. ESDs must meet airline and government requirements, including advance documentation and an airline-approved carrier. Please see each carrier&quot; , &quot;'&quot; , &quot;s stipulations for sizing of carriers.&quot;))]</value>
+      <webElementGuid>64abf6fa-d847-4aba-8e12-acc753a051b1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

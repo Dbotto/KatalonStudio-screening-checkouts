@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Landlords waive pet fees or deposits for ESAs</name>
+   <tag></tag>
+   <elementGuidId>45438ecc-e2bc-466a-8712-4fc0d9a3ecd5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/ol/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>a92efc3f-4126-4258-8cd3-99b3b8cac440</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Landlords waive pet fees or deposits for ESAs</value>
+      <webElementGuid>895b4d63-06b9-4a66-a12b-36bf17e23312</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-container survey survey-housing&quot;]/div[@class=&quot;container main-content&quot;]/div[@class=&quot;part-content&quot;]/ol[@class=&quot;bullets&quot;]/li[1]</value>
+      <webElementGuid>45e98e17-a827-4d90-8976-9a8ee537b186</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/ol/li</value>
+      <webElementGuid>b7865123-331d-455c-af74-8d4a3b3e2b63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Landlords']/parent::*</value>
+      <webElementGuid>111e300d-8c7d-4d82-92c3-0134c63e7efd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li</value>
+      <webElementGuid>998aeebd-79a3-4690-a078-7d7f717a540e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Landlords waive pet fees or deposits for ESAs' or . = 'Landlords waive pet fees or deposits for ESAs')]</value>
+      <webElementGuid>9114bfa3-d4b0-4d40-b84d-292be9245e0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

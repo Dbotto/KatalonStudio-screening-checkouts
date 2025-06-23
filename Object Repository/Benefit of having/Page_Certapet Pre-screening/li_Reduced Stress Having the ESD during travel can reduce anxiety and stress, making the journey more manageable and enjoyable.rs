@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Reduced Stress Having the ESD during travel can reduce anxiety and stress, making the journey more manageable and enjoyable</name>
+   <tag></tag>
+   <elementGuidId>124ebe0d-cb04-493c-968a-8ff3d9cd5abd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/ol/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>965975f4-232e-4448-ba36-630b05d1dada</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reduced Stress: Having the ESD during travel can reduce anxiety and stress, making the journey more manageable and enjoyable.</value>
+      <webElementGuid>77e978ee-7adf-42f5-a1c2-dbc385cc1af3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-container survey survey-travel&quot;]/div[@class=&quot;container main-content&quot;]/div[@class=&quot;part-content&quot;]/ol[@class=&quot;bullets&quot;]/li[2]</value>
+      <webElementGuid>6ee9ab0f-2cab-40a1-8ec0-026842dd6cd7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/ol/li[2]</value>
+      <webElementGuid>08d5a6d9-ec76-4d25-85ac-adb402372958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='only dogs (Emotional Support Dogs)'])[1]/following::li[1]</value>
+      <webElementGuid>e57881a5-169c-4d91-8dd7-06e6cb8b4296</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='emotional support during travel'])[1]/preceding::li[1]</value>
+      <webElementGuid>f11cb1ea-1241-43bd-a489-3411cdf874c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reduced Stress: Having the ESD during travel can']/parent::*</value>
+      <webElementGuid>ce59ab15-542b-4068-b950-13c2670f9bd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>35e1a265-a126-4950-878f-d0aead219e18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Reduced Stress: Having the ESD during travel can reduce anxiety and stress, making the journey more manageable and enjoyable.' or . = 'Reduced Stress: Having the ESD during travel can reduce anxiety and stress, making the journey more manageable and enjoyable.')]</value>
+      <webElementGuid>bb076c01-2ff5-45a5-987a-1db8f0add0ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

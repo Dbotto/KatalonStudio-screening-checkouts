@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Canada</name>
+   <tag></tag>
+   <elementGuidId>4992006b-738a-4290-9f7e-d8747f0689c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.option-card.selected > div.option-card-content > h3.option-card-title.option-card-title-small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>bb77d565-e37f-4af0-9c5d-de189baedbf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>option-card-title option-card-title-small</value>
+      <webElementGuid>1290f5cd-6c65-4c20-99ac-2f82cb49ce3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Canada</value>
+      <webElementGuid>1688b839-5d8e-4462-a875-9077af8d03f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-container survey survey-country&quot;]/div[@class=&quot;container main-content&quot;]/div[@class=&quot;part-content&quot;]/div[@class=&quot;options-container options-container-images form-section form-section-multiple mt-0&quot;]/div[@class=&quot;option-card selected&quot;]/div[@class=&quot;option-card-content&quot;]/h3[@class=&quot;option-card-title option-card-title-small&quot;]</value>
+      <webElementGuid>b409f212-abe9-4995-b56e-6cfbc9d4f0f9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/h3</value>
+      <webElementGuid>818f0e25-b54e-4a8e-8d01-45644a297d4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='USA'])[1]/following::h3[1]</value>
+      <webElementGuid>5af11d10-073f-407a-9e93-bd25fc38fe0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::h3[1]</value>
+      <webElementGuid>da908e83-538c-4e08-be23-930d2897e454</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next'])[1]/preceding::h3[1]</value>
+      <webElementGuid>85c9ad49-4798-4125-8310-cc02cb5e431d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Canada']/parent::*</value>
+      <webElementGuid>3f73f327-4778-4c8c-a079-0b0a8b2bc92b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h3</value>
+      <webElementGuid>bd6540e8-ff36-4675-9c75-9c4eadf8a381</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Canada' or . = 'Canada')]</value>
+      <webElementGuid>f550d18f-fb76-4196-a80e-851102c0f6d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

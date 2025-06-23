@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ul_Training is required Your dog must be trained to fully meet the public access standard and  to perform tasks related to your condition (you can train the dog yourself or with a trainer).Legal Protection PSDs are prote</name>
+   <tag></tag>
+   <elementGuidId>a693f552-032d-4153-b0a9-80496d7f48c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div/ul</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.text-start</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>ul</value>
+      <webElementGuid>b6b2de04-13eb-4478-adad-00018b209414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-start</value>
+      <webElementGuid>b9ab8018-2001-4eff-a2d9-7dbe7574ee43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Training is required: Your dog must be trained to fully meet the public access standard and  to perform tasks related to your condition (you can train the dog yourself or with a trainer).Legal Protection: PSDs are protected under the Air Carrier Access Act (ACAA) and the Americans with Disabilities Act (ADA). This means you can fly with your PSD at no cost, and they are allowed in public places where pets are typically not permitted.Must be a dog: Only dogs can qualify as PSDs.</value>
+      <webElementGuid>b102b03c-b98f-4074-8df6-b3b0f7648e64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-container survey survey-travel&quot;]/div[@class=&quot;container main-content&quot;]/div[@class=&quot;part-header text-center&quot;]/div[@class=&quot;col-12 col-md-10 offset-md-1&quot;]/ul[@class=&quot;text-start&quot;]</value>
+      <webElementGuid>afba2245-e774-49c1-80c5-96d6eb8bb488</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/ul</value>
+      <webElementGuid>85337fcf-b4b4-474e-850d-f3dd2be59236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Psychiatric Service Dog (PSD)'])[1]/following::ul[1]</value>
+      <webElementGuid>4f1e8560-d61b-46f4-b846-5d18b9d30a01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul</value>
+      <webElementGuid>a7171ade-86e9-4687-9cce-ecaa23a5e7cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//ul[(text() = 'Training is required: Your dog must be trained to fully meet the public access standard and  to perform tasks related to your condition (you can train the dog yourself or with a trainer).Legal Protection: PSDs are protected under the Air Carrier Access Act (ACAA) and the Americans with Disabilities Act (ADA). This means you can fly with your PSD at no cost, and they are allowed in public places where pets are typically not permitted.Must be a dog: Only dogs can qualify as PSDs.' or . = 'Training is required: Your dog must be trained to fully meet the public access standard and  to perform tasks related to your condition (you can train the dog yourself or with a trainer).Legal Protection: PSDs are protected under the Air Carrier Access Act (ACAA) and the Americans with Disabilities Act (ADA). This means you can fly with your PSD at no cost, and they are allowed in public places where pets are typically not permitted.Must be a dog: Only dogs can qualify as PSDs.')]</value>
+      <webElementGuid>1eceb6c3-c682-49c5-96b7-7701be5d3879</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

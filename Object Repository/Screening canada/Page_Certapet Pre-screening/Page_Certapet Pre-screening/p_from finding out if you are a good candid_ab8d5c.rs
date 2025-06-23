@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_from finding out if you are a good candid_ab8d5c</name>
+   <tag></tag>
+   <elementGuidId>e0c66b1d-4c5c-4654-9dc8-009d667b1348</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[3]/form/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4b519d84-43be-4269-ae0b-bb0461b194e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>from finding out if you are a good candidate for the ESA Housing</value>
+      <webElementGuid>8cec115b-35b7-4a4e-9c10-e675d4872e61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-container congratulations&quot;]/div[@class=&quot;row main-content&quot;]/div[@class=&quot;col col-12 col-lg-6 content-right&quot;]/form[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-xl-8 offset-xl-2&quot;]/p[1]</value>
+      <webElementGuid>e5d25db1-7d6d-4a0e-a9b0-584b4cc1d0b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[3]/form/div/p</value>
+      <webElementGuid>4e2da5d7-0377-427e-a7e4-0cb5857565c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter your Email to see your results:'])[1]/preceding::p[1]</value>
+      <webElementGuid>f989ac10-15f2-4d1e-9051-8712a8984b3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='from finding out if you are a']/parent::*</value>
+      <webElementGuid>36ff3f25-5b44-4de1-9c7f-45de1f9ca6a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>6f12da31-ee87-4465-bcf7-eca78722f73d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'from finding out if you are a good candidate for the ESA Housing' or . = 'from finding out if you are a good candidate for the ESA Housing')]</value>
+      <webElementGuid>54ee974e-7500-4b1d-9a0b-29ce0af517f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_However, ESAs are still protected under t_7963ed</name>
+   <tag></tag>
+   <elementGuidId>e7860ec7-c5d4-40cb-87be-7fdfc4c50a00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div/p[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5a237173-8761-4081-86d5-51da9751b888</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-start</value>
+      <webElementGuid>047da3f4-fdd1-4829-94f1-b343dc3edd83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>However, ESAs are still protected under the Fair Housing Act, which allows you to live with your pet without pet fees or breed restrictions if you qualify.</value>
+      <webElementGuid>4e8c6a4d-30fb-4a42-a0da-fe3022cd2def</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-container survey survey-combo&quot;]/div[@class=&quot;container main-content&quot;]/div[@class=&quot;part-header text-center&quot;]/div[@class=&quot;col-12 col-md-8 offset-md-2&quot;]/p[@class=&quot;text-start&quot;]</value>
+      <webElementGuid>21b5426d-bd5f-4712-86ef-e8a11e5bf8c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/p[3]</value>
+      <webElementGuid>9751b187-f41d-4b9e-8af5-3513dbc8e845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Emotional Support Animals (ESAs)'])[1]/following::p[1]</value>
+      <webElementGuid>12eaa91a-f64d-47ae-957a-a4204fc525fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='travel by air with your dog'])[1]/preceding::p[1]</value>
+      <webElementGuid>fdbcb840-94c8-4816-b15e-8090fe185489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='However,']/parent::*</value>
+      <webElementGuid>204099ff-0cc4-40bb-94cf-2f574c8facec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]</value>
+      <webElementGuid>5adc110f-c371-48ac-aaf8-6c988f0bf059</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'However, ESAs are still protected under the Fair Housing Act, which allows you to live with your pet without pet fees or breed restrictions if you qualify.' or . = 'However, ESAs are still protected under the Fair Housing Act, which allows you to live with your pet without pet fees or breed restrictions if you qualify.')]</value>
+      <webElementGuid>c83f19ac-6ebd-414d-b5ba-a37b0b0f4cb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

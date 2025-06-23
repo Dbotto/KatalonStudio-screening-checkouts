@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_LoginHousingPre-ScreeningCheckoutESA Ho_110ed6</name>
+   <tag></tag>
+   <elementGuidId>4ae158fc-6598-4907-ad2d-9c2627d2f092</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#app</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1601b2e3-9ed3-4176-b43f-98c389324ef5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>app</value>
+      <webElementGuid>9c402516-6640-4b57-a329-20856158ee13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LoginHousingPre-ScreeningCheckoutESA Housing Letter Consultation$149.99Automatic renewalSave $15Enjoy a 10% discount on your letter when you automatically renew.Please note that you will still have to fill out your renewal paperwork and have a yearly assessment with your therapist.ESA Housing Letter Consultation$149.99ShippingFREESubtotal$149.99Have a promo code?TotalUSD$149.99Trusted by Thousands, Backed by SecuritySuccess storiesReal Stories, Real Lives ChangedI had an excellent experience with CertaPet. Everything was quick and professional. My therapist was local, kind, and understanding. Unlike other ESA services, CertaPet doesn't bombard you with ads. I'm very thankful for their service and highly recommend them.Amaryllis FI have received incredible customer support from CertaPet. Whenever I have had questions, I've received pleasant and quick replies that always resolved my issues. The therapists are excellent as well. I'm very happy using CertaPet.Leighkaren LWhat's next?You'll get an email with instructions to complete the assessment.A licensed mental health professional will reach out within 2 business days to schedule a phone consultation.If approved, you can instantly download a digital copy of your letter.Safe and secure transactionPersonal InfoFirst NameLast NameEmailContact NumberStatePlease SelectALABAMAALASKAAMERICAN SAMOAARIZONAARKANSASCALIFORNIACOLORADOCONNECTICUTDELAWAREDISTRICT OF COLUMBIAFEDERATED STATES OF MICRONESIAFLORIDAGUAMGEORGIAHAWAIIIDAHOILLINOISINDIANAIOWAKANSASKENTUCKYLOUISIANAMAINEMARSHALL ISLANDSMARYLANDMASSACHUSETTSMICHIGANMINNESOTAMISSISSIPPIMISSOURIMONTANANORTH CAROLINANORTH DAKOTANORTHERN MARIANA ISLANDSNEBRASKANEW HAMPSHIRENEW JERSEYNEW MEXICONEW YORKNEVADAOHIOOKLAHOMAOREGONPALAUPENNSYLVANIAPUERTO RICORHODE ISLANDSOUTH CAROLINASOUTH DAKOTATENNESSEETEXASUTAHVERMONTVIRGIN ISLANDSVIRGINIAWASHINGTONWEST VIRGINIAWISCONSINWYOMINGALBERTABRITISH COLUMBIAMANITOBANEW BRUNSWICKNEWFOUNDLAND AND LABRADORNORTHWEST TERRITORIESNOVA SCOTIANUNAVUTONTARIOPRINCE EDWARD ISLANDQUEBECSASKATCHEWANYUKONMake sure to select the state where you are CURRENTLY locatedExpress checkoutOr pay with cardCard InformationName of CardholderYour information will be kept 100% confidential and only the Licensed Mental Health Professional will ever see your application.Loading...Pay for my ESA Housing Letter ConsultationAn error occurred trying to fullfill your request.&quot;&quot;Please contact support.Powered by stripeTermsPrivacyTrusted by Thousands,  Backed by SecuritySuccess storiesReal Stories. Real Lives ChangedI had an excellent experience with CertaPet. Everything was quick and professional. My therapist was local, kind, and understanding. Unlike other ESA services, CertaPet doesn't bombard you with ads. I'm very thankful for their service and highly recommend them.Amaryllis FI have received incredible customer support from CertaPet. Whenever I have had questions, I've received pleasant and quick replies that always resolved my issues. The therapists are excellent as well. I'm very happy using CertaPet.Leighkaren LWhat's next?You'll get an email with instructions to complete the assessment.A licensed mental health professional will reach out within 2 business days to schedule a phone consultation.If approved, you can instantly download a digital copy of your letter.© Copyright 2025 CertaPet, all rights reserved.</value>
+      <webElementGuid>5074b7e8-4f1e-4272-9d0b-000430f5127a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)</value>
+      <webElementGuid>52939432-0655-4d97-bf6c-04b546a1185a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='app']</value>
+      <webElementGuid>f0021671-4f17-417b-a2ed-15aa4a97edd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div</value>
+      <webElementGuid>d0076793-3622-406f-903c-a85c03b4b49d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'app' and (text() = concat(&quot;LoginHousingPre-ScreeningCheckoutESA Housing Letter Consultation$149.99Automatic renewalSave $15Enjoy a 10% discount on your letter when you automatically renew.Please note that you will still have to fill out your renewal paperwork and have a yearly assessment with your therapist.ESA Housing Letter Consultation$149.99ShippingFREESubtotal$149.99Have a promo code?TotalUSD$149.99Trusted by Thousands, Backed by SecuritySuccess storiesReal Stories, Real Lives ChangedI had an excellent experience with CertaPet. Everything was quick and professional. My therapist was local, kind, and understanding. Unlike other ESA services, CertaPet doesn&quot; , &quot;'&quot; , &quot;t bombard you with ads. I&quot; , &quot;'&quot; , &quot;m very thankful for their service and highly recommend them.Amaryllis FI have received incredible customer support from CertaPet. Whenever I have had questions, I&quot; , &quot;'&quot; , &quot;ve received pleasant and quick replies that always resolved my issues. The therapists are excellent as well. I&quot; , &quot;'&quot; , &quot;m very happy using CertaPet.Leighkaren LWhat&quot; , &quot;'&quot; , &quot;s next?You&quot; , &quot;'&quot; , &quot;ll get an email with instructions to complete the assessment.A licensed mental health professional will reach out within 2 business days to schedule a phone consultation.If approved, you can instantly download a digital copy of your letter.Safe and secure transactionPersonal InfoFirst NameLast NameEmailContact NumberStatePlease SelectALABAMAALASKAAMERICAN SAMOAARIZONAARKANSASCALIFORNIACOLORADOCONNECTICUTDELAWAREDISTRICT OF COLUMBIAFEDERATED STATES OF MICRONESIAFLORIDAGUAMGEORGIAHAWAIIIDAHOILLINOISINDIANAIOWAKANSASKENTUCKYLOUISIANAMAINEMARSHALL ISLANDSMARYLANDMASSACHUSETTSMICHIGANMINNESOTAMISSISSIPPIMISSOURIMONTANANORTH CAROLINANORTH DAKOTANORTHERN MARIANA ISLANDSNEBRASKANEW HAMPSHIRENEW JERSEYNEW MEXICONEW YORKNEVADAOHIOOKLAHOMAOREGONPALAUPENNSYLVANIAPUERTO RICORHODE ISLANDSOUTH CAROLINASOUTH DAKOTATENNESSEETEXASUTAHVERMONTVIRGIN ISLANDSVIRGINIAWASHINGTONWEST VIRGINIAWISCONSINWYOMINGALBERTABRITISH COLUMBIAMANITOBANEW BRUNSWICKNEWFOUNDLAND AND LABRADORNORTHWEST TERRITORIESNOVA SCOTIANUNAVUTONTARIOPRINCE EDWARD ISLANDQUEBECSASKATCHEWANYUKONMake sure to select the state where you are CURRENTLY locatedExpress checkoutOr pay with cardCard InformationName of CardholderYour information will be kept 100% confidential and only the Licensed Mental Health Professional will ever see your application.Loading...Pay for my ESA Housing Letter ConsultationAn error occurred trying to fullfill your request.&quot;&quot;Please contact support.Powered by stripeTermsPrivacyTrusted by Thousands,  Backed by SecuritySuccess storiesReal Stories. Real Lives ChangedI had an excellent experience with CertaPet. Everything was quick and professional. My therapist was local, kind, and understanding. Unlike other ESA services, CertaPet doesn&quot; , &quot;'&quot; , &quot;t bombard you with ads. I&quot; , &quot;'&quot; , &quot;m very thankful for their service and highly recommend them.Amaryllis FI have received incredible customer support from CertaPet. Whenever I have had questions, I&quot; , &quot;'&quot; , &quot;ve received pleasant and quick replies that always resolved my issues. The therapists are excellent as well. I&quot; , &quot;'&quot; , &quot;m very happy using CertaPet.Leighkaren LWhat&quot; , &quot;'&quot; , &quot;s next?You&quot; , &quot;'&quot; , &quot;ll get an email with instructions to complete the assessment.A licensed mental health professional will reach out within 2 business days to schedule a phone consultation.If approved, you can instantly download a digital copy of your letter.© Copyright 2025 CertaPet, all rights reserved.&quot;) or . = concat(&quot;LoginHousingPre-ScreeningCheckoutESA Housing Letter Consultation$149.99Automatic renewalSave $15Enjoy a 10% discount on your letter when you automatically renew.Please note that you will still have to fill out your renewal paperwork and have a yearly assessment with your therapist.ESA Housing Letter Consultation$149.99ShippingFREESubtotal$149.99Have a promo code?TotalUSD$149.99Trusted by Thousands, Backed by SecuritySuccess storiesReal Stories, Real Lives ChangedI had an excellent experience with CertaPet. Everything was quick and professional. My therapist was local, kind, and understanding. Unlike other ESA services, CertaPet doesn&quot; , &quot;'&quot; , &quot;t bombard you with ads. I&quot; , &quot;'&quot; , &quot;m very thankful for their service and highly recommend them.Amaryllis FI have received incredible customer support from CertaPet. Whenever I have had questions, I&quot; , &quot;'&quot; , &quot;ve received pleasant and quick replies that always resolved my issues. The therapists are excellent as well. I&quot; , &quot;'&quot; , &quot;m very happy using CertaPet.Leighkaren LWhat&quot; , &quot;'&quot; , &quot;s next?You&quot; , &quot;'&quot; , &quot;ll get an email with instructions to complete the assessment.A licensed mental health professional will reach out within 2 business days to schedule a phone consultation.If approved, you can instantly download a digital copy of your letter.Safe and secure transactionPersonal InfoFirst NameLast NameEmailContact NumberStatePlease SelectALABAMAALASKAAMERICAN SAMOAARIZONAARKANSASCALIFORNIACOLORADOCONNECTICUTDELAWAREDISTRICT OF COLUMBIAFEDERATED STATES OF MICRONESIAFLORIDAGUAMGEORGIAHAWAIIIDAHOILLINOISINDIANAIOWAKANSASKENTUCKYLOUISIANAMAINEMARSHALL ISLANDSMARYLANDMASSACHUSETTSMICHIGANMINNESOTAMISSISSIPPIMISSOURIMONTANANORTH CAROLINANORTH DAKOTANORTHERN MARIANA ISLANDSNEBRASKANEW HAMPSHIRENEW JERSEYNEW MEXICONEW YORKNEVADAOHIOOKLAHOMAOREGONPALAUPENNSYLVANIAPUERTO RICORHODE ISLANDSOUTH CAROLINASOUTH DAKOTATENNESSEETEXASUTAHVERMONTVIRGIN ISLANDSVIRGINIAWASHINGTONWEST VIRGINIAWISCONSINWYOMINGALBERTABRITISH COLUMBIAMANITOBANEW BRUNSWICKNEWFOUNDLAND AND LABRADORNORTHWEST TERRITORIESNOVA SCOTIANUNAVUTONTARIOPRINCE EDWARD ISLANDQUEBECSASKATCHEWANYUKONMake sure to select the state where you are CURRENTLY locatedExpress checkoutOr pay with cardCard InformationName of CardholderYour information will be kept 100% confidential and only the Licensed Mental Health Professional will ever see your application.Loading...Pay for my ESA Housing Letter ConsultationAn error occurred trying to fullfill your request.&quot;&quot;Please contact support.Powered by stripeTermsPrivacyTrusted by Thousands,  Backed by SecuritySuccess storiesReal Stories. Real Lives ChangedI had an excellent experience with CertaPet. Everything was quick and professional. My therapist was local, kind, and understanding. Unlike other ESA services, CertaPet doesn&quot; , &quot;'&quot; , &quot;t bombard you with ads. I&quot; , &quot;'&quot; , &quot;m very thankful for their service and highly recommend them.Amaryllis FI have received incredible customer support from CertaPet. Whenever I have had questions, I&quot; , &quot;'&quot; , &quot;ve received pleasant and quick replies that always resolved my issues. The therapists are excellent as well. I&quot; , &quot;'&quot; , &quot;m very happy using CertaPet.Leighkaren LWhat&quot; , &quot;'&quot; , &quot;s next?You&quot; , &quot;'&quot; , &quot;ll get an email with instructions to complete the assessment.A licensed mental health professional will reach out within 2 business days to schedule a phone consultation.If approved, you can instantly download a digital copy of your letter.© Copyright 2025 CertaPet, all rights reserved.&quot;))]</value>
+      <webElementGuid>8809f259-8816-4116-b7a5-2f48ba038eaf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

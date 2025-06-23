@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_ESAs Are No Longer Accepted for Air Travel</name>
+   <tag></tag>
+   <elementGuidId>ece7f0e8-70c7-4d26-9570-435ebccbb49d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;app&quot;]/div/div[2]/div[1]/div/p[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.h1.part-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c96965f1-8139-4557-909b-53e12882a9df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h1 part-title</value>
+      <webElementGuid>9f507b49-c764-4c21-9ad0-65e3d41d3094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ESAs Are No Longer Accepted for Air Travel</value>
+      <webElementGuid>c0416a6d-9dcb-430b-97f0-ddc58ae66352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-container survey survey-travel&quot;]/div[@class=&quot;container main-content&quot;]/div[@class=&quot;part-header text-center&quot;]/div[@class=&quot;col-12 col-md-8 offset-md-2&quot;]/p[@class=&quot;h1 part-title&quot;]</value>
+      <webElementGuid>8838bce9-9614-434a-b174-6f6b41be14f7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/p</value>
+      <webElementGuid>22e82f24-433d-4f13-a0d7-7ace9eb62da9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dog'])[1]/preceding::p[2]</value>
+      <webElementGuid>5a3c9880-fc4d-4563-aeaf-69f71e7d1436</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have a mental health condition, and'])[1]/preceding::p[3]</value>
+      <webElementGuid>d579da08-8702-413d-9035-c381844ec141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ESAs Are No Longer Accepted for Air Travel']/parent::*</value>
+      <webElementGuid>8f9a9701-5d9f-44e4-8fc4-83ee498de393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>9423980e-47f9-4681-bfba-bf8b3e0a2888</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'ESAs Are No Longer Accepted for Air Travel' or . = 'ESAs Are No Longer Accepted for Air Travel')]</value>
+      <webElementGuid>6142be06-a20d-4421-8d17-535aecd3322c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Live with my pet for free</name>
+   <tag></tag>
+   <elementGuidId>a5ac0e3f-a4ef-4612-8a00-9c47f8f1a369</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h3.option-card-title.option-card-title-small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>deab9c3a-1f03-4b7d-b235-bd7065153352</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>option-card-title option-card-title-small</value>
+      <webElementGuid>40ff3c0c-14e3-40a1-a93b-e96d85d4f78f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Live with my pet for free</value>
+      <webElementGuid>b9b20121-d2e7-48d9-be0b-c68da8764df2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-container survey survey-product&quot;]/div[@class=&quot;container main-content&quot;]/div[@class=&quot;part-content&quot;]/div[@class=&quot;options-container options-container-images form-section form-section-multiple mt-0&quot;]/div[@class=&quot;option-card&quot;]/div[@class=&quot;option-card-content&quot;]/h3[@class=&quot;option-card-title option-card-title-small&quot;]</value>
+      <webElementGuid>723c02ee-26ae-4295-aae4-f2a55b5f0afa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/h3</value>
+      <webElementGuid>4da36f0a-6978-4b10-b56d-5e0ca0c6f1c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Travel with my pet for free'])[1]/preceding::h3[1]</value>
+      <webElementGuid>51072830-5660-488d-8a84-7c422044cf16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Both'])[1]/preceding::h3[2]</value>
+      <webElementGuid>b971ce62-e7fe-4520-9bb4-880e451b54ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Live with my pet for free']/parent::*</value>
+      <webElementGuid>963040bd-094e-40c9-98cd-ce5cd68441ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3</value>
+      <webElementGuid>b9a8887b-feff-46f1-9fe8-9b77ca359ac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Live with my pet for free' or . = 'Live with my pet for free')]</value>
+      <webElementGuid>d25a2bd4-122d-4e4f-9398-0716dbd45179</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

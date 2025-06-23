@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Keep your ESA with you in housing even if there are no-pet policies</name>
+   <tag></tag>
+   <elementGuidId>70a232a0-515c-440f-b2fe-b52cb2976d49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/ol/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>b5e23ae5-f97e-46af-87cf-6e8fdb1fa5d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Keep your ESA with you in housing even if there are no-pet policies.</value>
+      <webElementGuid>11ebcdef-4ecd-43bd-b622-e8de1caaa394</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-container survey survey-housing&quot;]/div[@class=&quot;container main-content&quot;]/div[@class=&quot;part-content&quot;]/ol[@class=&quot;bullets&quot;]/li[2]</value>
+      <webElementGuid>1bdd25f8-dd11-4f0b-8138-3d38b4eda638</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/ol/li[2]</value>
+      <webElementGuid>2be7637d-8601-4b35-b187-6253ee1ae1cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='waive pet fees'])[1]/following::li[1]</value>
+      <webElementGuid>d1ebaf2c-8773-44ab-adcb-21fffc562e54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='in housing even if there are no-pet policies.']/parent::*</value>
+      <webElementGuid>6717d6ca-50ad-4fba-b5de-1bbcf923f880</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>e6d9871f-aa99-426c-b98b-f5617cd2085a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Keep your ESA with you in housing even if there are no-pet policies.' or . = 'Keep your ESA with you in housing even if there are no-pet policies.')]</value>
+      <webElementGuid>c286b71e-859d-48b9-b286-5daa8113617e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

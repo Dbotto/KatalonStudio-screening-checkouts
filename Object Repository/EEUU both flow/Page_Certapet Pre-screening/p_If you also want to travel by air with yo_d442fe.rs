@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_If you also want to travel by air with yo_d442fe</name>
+   <tag></tag>
+   <elementGuidId>76f45d39-2ba1-4a14-9bdf-8a56aadc755f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div/p[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a6fb8d80-a7c8-43ce-948f-e890f4e31df1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-start</value>
+      <webElementGuid>fa28f27e-dce6-45d9-ae70-45764b986e57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>If you also want to travel by air with your dog, you may qualify for a Psychiatric Service Dog (PSD). A PSD must be a dog that is trained to perform tasks related to your mental health condition.</value>
+      <webElementGuid>ef943014-9281-4db5-9153-05d9216de575</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-container survey survey-combo&quot;]/div[@class=&quot;container main-content&quot;]/div[@class=&quot;part-header text-center&quot;]/div[@class=&quot;col-12 col-md-8 offset-md-2&quot;]/p[@class=&quot;text-start&quot;]</value>
+      <webElementGuid>1aacdba0-8fa3-4c02-9243-f2b31dc89dfc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/p[4]</value>
+      <webElementGuid>ca3ebd36-f438-44b7-8d0f-0721da71b526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ESAs are still protected under the Fair Housing Act'])[1]/following::p[1]</value>
+      <webElementGuid>09be925f-84af-422e-8aef-69199c5384fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Emotional Support Animals (ESAs)'])[1]/following::p[2]</value>
+      <webElementGuid>0a5a8fa7-17c7-461c-a831-078f32193b2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='If you also want to']/parent::*</value>
+      <webElementGuid>b2afc499-8049-4870-ae9b-4e6e30afb4ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[4]</value>
+      <webElementGuid>5d1c8812-9358-4d74-b593-5218cac71213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'If you also want to travel by air with your dog, you may qualify for a Psychiatric Service Dog (PSD). A PSD must be a dog that is trained to perform tasks related to your mental health condition.' or . = 'If you also want to travel by air with your dog, you may qualify for a Psychiatric Service Dog (PSD). A PSD must be a dog that is trained to perform tasks related to your mental health condition.')]</value>
+      <webElementGuid>e0eb71e0-d353-48f4-9361-723547e484c3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

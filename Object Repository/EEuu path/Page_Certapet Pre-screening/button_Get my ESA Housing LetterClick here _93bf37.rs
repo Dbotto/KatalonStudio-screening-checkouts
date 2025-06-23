@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Get my ESA Housing LetterClick here _93bf37</name>
+   <tag></tag>
+   <elementGuidId>41c065f5-d2ae-41ea-8dfc-eba7d4943c94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-red.btn-cta</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6e3ae0b3-c0dc-4a4b-a6a7-d6b40ddc40c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>50dd2d43-9d60-44df-be35-b3d74d3c867d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-red btn-cta</value>
+      <webElementGuid>3b5d318c-2b64-43de-a675-6079ab77e202</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get my ESA Housing LetterClick here to continue</value>
+      <webElementGuid>0ae7e9b6-c41c-4086-b15d-e1f46772c905</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-container congratulations&quot;]/div[@class=&quot;row main-content&quot;]/div[@class=&quot;col col-12 col-lg-6 content-right&quot;]/form[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-xl-8 offset-xl-2&quot;]/div[@class=&quot;input-container&quot;]/button[@class=&quot;btn btn-red btn-cta&quot;]</value>
+      <webElementGuid>46c19878-ed0e-4a04-a13e-8f06be46d779</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>9912b756-2873-490a-92e9-fb13aa29d847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[3]/form/div/div[3]/button</value>
+      <webElementGuid>e5964384-8d3d-4942-90e0-ed745e5f7d15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='expedited communication'])[1]/following::button[1]</value>
+      <webElementGuid>1b7c3fbe-6e97-4df3-83b7-0c899dd3fdb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>eeb7295a-337b-4a7d-aeab-6d39ba248dc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Get my ESA Housing LetterClick here to continue' or . = 'Get my ESA Housing LetterClick here to continue')]</value>
+      <webElementGuid>87daa198-f5ce-4911-be92-abc50b0530e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

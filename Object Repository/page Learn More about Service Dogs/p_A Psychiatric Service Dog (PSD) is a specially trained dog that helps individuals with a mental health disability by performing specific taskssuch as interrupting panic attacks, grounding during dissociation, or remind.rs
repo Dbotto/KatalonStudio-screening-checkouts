@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_A Psychiatric Service Dog (PSD) is a specially trained dog that helps individuals with a mental health disability by performing specific taskssuch as interrupting panic attacks, grounding during dissociation, or remind</name>
+   <tag></tag>
+   <elementGuidId>1705d82b-4372-43d8-b077-f3da984c6774</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-start</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>354618a9-e56e-48bc-a1ea-0d207b55ccc4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-start</value>
+      <webElementGuid>d6481ee5-1cc4-4e3a-bdc4-40f7a965e893</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>A Psychiatric Service Dog (PSD) is a specially trained dog that helps individuals with a mental health disability by performing specific tasks—such as interrupting panic attacks, grounding during dissociation, or reminding to take medication.</value>
+      <webElementGuid>5a038aa0-4cc4-4b85-87fc-9fa7bd6d7ffb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-container survey survey-travel&quot;]/div[@class=&quot;container main-content&quot;]/div[@class=&quot;part-header text-center&quot;]/div[@class=&quot;col-12 col-md-10 offset-md-1&quot;]/p[@class=&quot;text-start&quot;]</value>
+      <webElementGuid>04ab6bfb-b67a-44a4-abc7-6addab491312</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/p[2]</value>
+      <webElementGuid>5b187aed-0ca3-47f5-8764-f62b3e2b921c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training is required:'])[1]/preceding::p[2]</value>
+      <webElementGuid>ead0a8f6-d3b6-46af-8990-506799119921</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='A']/parent::*</value>
+      <webElementGuid>d6d344bb-487b-4cde-9175-fa64af51d9ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>a474a4ea-8157-4a48-8e07-6435acb914fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'A Psychiatric Service Dog (PSD) is a specially trained dog that helps individuals with a mental health disability by performing specific tasks—such as interrupting panic attacks, grounding during dissociation, or reminding to take medication.' or . = 'A Psychiatric Service Dog (PSD) is a specially trained dog that helps individuals with a mental health disability by performing specific tasks—such as interrupting panic attacks, grounding during dissociation, or reminding to take medication.')]</value>
+      <webElementGuid>ef2a856d-901e-43db-9553-a008faf06e44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

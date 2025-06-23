@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Companionship The presence of the ESD provides emotional support during travel, offering a familiar and comforting presence in unfamiliar surroundings</name>
+   <tag></tag>
+   <elementGuidId>99d10bba-4fd5-4e8a-90b1-5e32f44198a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/ol/li[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>a7e33aa0-4e58-47b6-8ab0-a1c64e53d62e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Companionship: The presence of the ESD provides emotional support during travel, offering a familiar and comforting presence in unfamiliar surroundings.</value>
+      <webElementGuid>d6e6dbda-c9d9-4fd3-832d-5b39fd5005c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-container survey survey-travel&quot;]/div[@class=&quot;container main-content&quot;]/div[@class=&quot;part-content&quot;]/ol[@class=&quot;bullets&quot;]/li[3]</value>
+      <webElementGuid>7865324b-9f7b-42fa-bdcc-e5b9adf85461</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/ol/li[3]</value>
+      <webElementGuid>c3f2432e-36cb-4d0b-8dc4-e94104cfb368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='reduce anxiety and stress'])[1]/following::li[1]</value>
+      <webElementGuid>4a120d3d-67d6-42e8-865c-67d1b33afd52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='only dogs (Emotional Support Dogs)'])[1]/following::li[2]</value>
+      <webElementGuid>f6772251-caa8-4aae-8c18-eeda53863e8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::li[1]</value>
+      <webElementGuid>f1472a44-6db6-43de-ae95-acce047ce0c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Companionship: The presence of the ESD provides']/parent::*</value>
+      <webElementGuid>c64e59a5-9c30-48e8-ba5e-a46e1bbc7292</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]</value>
+      <webElementGuid>67bd6ef0-3b79-4f7d-9cd8-c609eae6cbff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Companionship: The presence of the ESD provides emotional support during travel, offering a familiar and comforting presence in unfamiliar surroundings.' or . = 'Companionship: The presence of the ESD provides emotional support during travel, offering a familiar and comforting presence in unfamiliar surroundings.')]</value>
+      <webElementGuid>d926531f-1f46-4c47-8648-8140c9ee0d7a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

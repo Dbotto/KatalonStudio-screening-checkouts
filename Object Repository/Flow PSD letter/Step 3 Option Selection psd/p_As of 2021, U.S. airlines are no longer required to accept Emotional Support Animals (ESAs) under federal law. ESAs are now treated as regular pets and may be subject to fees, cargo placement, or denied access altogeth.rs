@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_As of 2021, U.S. airlines are no longer required to accept Emotional Support Animals (ESAs) under federal law. ESAs are now treated as regular pets and may be subject to fees, cargo placement, or denied access altogeth</name>
+   <tag></tag>
+   <elementGuidId>945c13ed-6d78-4745-be91-412b4604e962</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div/p[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-start</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>2cab5dbe-7e6a-4ef0-8cf9-6aab5637bdf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-start</value>
+      <webElementGuid>1c7676cc-c30d-45fb-8a84-d0f6878b3044</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>As of 2021, U.S. airlines are no longer required to accept Emotional Support Animals (ESAs) under federal law. ESAs are now treated as regular pets and may be subject to fees, cargo placement, or denied access altogether.</value>
+      <webElementGuid>45e142d9-bf59-4676-8501-edc8f367cbfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-container survey survey-travel&quot;]/div[@class=&quot;container main-content&quot;]/div[@class=&quot;part-header text-center&quot;]/div[@class=&quot;col-12 col-md-8 offset-md-2&quot;]/p[@class=&quot;text-start&quot;]</value>
+      <webElementGuid>fdbedad7-c897-49d7-8eae-38355eb81941</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/p[2]</value>
+      <webElementGuid>bf232000-9e70-4ab0-8803-b52db0c3f283</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dog'])[1]/preceding::p[1]</value>
+      <webElementGuid>33a06cc6-c897-4448-9cd0-2e732aa2489c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have a mental health condition, and'])[1]/preceding::p[2]</value>
+      <webElementGuid>21d6e79e-2608-48cc-a314-23f8f5bad326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='As of 2021, U.S. airlines are no longer required to accept Emotional Support Animals (ESAs) under federal law. ESAs are now treated as regular pets and may be subject to fees, cargo placement, or denied access altogether.']/parent::*</value>
+      <webElementGuid>024b8a8a-9f1d-41cd-9b27-6a4dcf9e2b44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>dfbdae63-2349-47c3-a444-2407f24bc8cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'As of 2021, U.S. airlines are no longer required to accept Emotional Support Animals (ESAs) under federal law. ESAs are now treated as regular pets and may be subject to fees, cargo placement, or denied access altogether.' or . = 'As of 2021, U.S. airlines are no longer required to accept Emotional Support Animals (ESAs) under federal law. ESAs are now treated as regular pets and may be subject to fees, cargo placement, or denied access altogether.')]</value>
+      <webElementGuid>33e01719-0c30-45ad-b8d7-d2566b8ada40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

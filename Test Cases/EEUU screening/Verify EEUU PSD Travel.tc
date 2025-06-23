@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify EEUU PSD Travel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>53f5708f-82fb-4de6-83df-b41b491a5e57</testCaseGuid>
+</TestCaseEntity>

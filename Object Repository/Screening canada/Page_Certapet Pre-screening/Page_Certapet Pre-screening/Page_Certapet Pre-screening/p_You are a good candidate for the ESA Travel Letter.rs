@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_You are a good candidate for the ESA Travel Letter</name>
+   <tag></tag>
+   <elementGuidId>9e3c0c54-ead8-4f1b-9ddf-1acdc446b45e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div[3]/form/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5802d39f-f892-4808-8725-91af256addd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>You are a good candidate for the ESA Travel Letter</value>
+      <webElementGuid>9215146f-0159-4cd7-9258-9bdf44f4c861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-container congratulations&quot;]/div[@class=&quot;row main-content&quot;]/div[@class=&quot;col col-12 col-lg-6 content-right&quot;]/form[@class=&quot;row&quot;]/div[@class=&quot;col-12 col-xl-8 offset-xl-2&quot;]/p[1]</value>
+      <webElementGuid>2ff91124-471e-4df9-9e46-cc28f7d8e0af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div[3]/form/div/p</value>
+      <webElementGuid>c40213c3-e74a-4886-989a-ae73ed5addbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Congratulations'])[1]/following::p[1]</value>
+      <webElementGuid>79906198-0217-4be6-9494-82ae39a9e9af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please enter your Email to see your results:'])[1]/preceding::p[1]</value>
+      <webElementGuid>3f773075-408b-4256-8b43-0e2eff2ff20a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='You are a']/parent::*</value>
+      <webElementGuid>cc56528a-2c5e-4267-bb8e-bc5501c5c4cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>21316ff6-0e84-4308-895e-ae2ed34daa85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'You are a good candidate for the ESA Travel Letter' or . = 'You are a good candidate for the ESA Travel Letter')]</value>
+      <webElementGuid>b2f1b779-5dd1-4cbe-9db9-84386327204a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Learn About Psychiatric Service Dogs (PSDs)</name>
+   <tag></tag>
+   <elementGuidId>b1aa4a93-0250-4565-a79e-71889ed90087</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.h1.part-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>37801331-0ea0-46bc-b082-7510f23fd12b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h1 part-title</value>
+      <webElementGuid>9a2a8f9d-becd-4bc2-a9e6-85b5f4154e2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Learn About Psychiatric Service Dogs (PSDs)</value>
+      <webElementGuid>bd534d3a-df9d-4c44-9919-884de0601779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-container survey survey-travel&quot;]/div[@class=&quot;container main-content&quot;]/div[@class=&quot;part-header text-center&quot;]/div[@class=&quot;col-12 col-md-10 offset-md-1&quot;]/p[@class=&quot;h1 part-title&quot;]</value>
+      <webElementGuid>7045fc71-1036-4bec-b918-bacf1d470ec9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/p</value>
+      <webElementGuid>28cbd686-d91b-4ee1-8dce-dfc1da81df0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Psychiatric Service Dog (PSD)'])[1]/preceding::p[1]</value>
+      <webElementGuid>657b6c9a-fe04-4560-95a2-ba139169e749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Training is required:'])[1]/preceding::p[3]</value>
+      <webElementGuid>efb3a2e0-e231-4746-baaf-e83c1f5073a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Learn About Psychiatric Service Dogs (PSDs)']/parent::*</value>
+      <webElementGuid>ddc1b1d1-3115-4208-aeb4-6ab75a069230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>aa26d904-b1e1-4ddb-b665-a04295a5f471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Learn About Psychiatric Service Dogs (PSDs)' or . = 'Learn About Psychiatric Service Dogs (PSDs)')]</value>
+      <webElementGuid>58eb59b3-6fb8-41cc-a882-fde1190406ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_As of 2021, airlines are no longer requir_11210f</name>
+   <tag></tag>
+   <elementGuidId>689322cc-2674-4ffb-a6f7-53aec22f4057</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.text-start</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div/div/p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>3f615f0a-f5cd-4b50-a5de-cb0e08a471b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-start</value>
+      <webElementGuid>e1c06184-a4d7-4ad7-9ab0-85fb9e636fc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>As of 2021, airlines are no longer required to accept Emotional Support Animals (ESAs) for air travel. ESAs are treated as regular pets on flights and are subject to fees and restrictions.</value>
+      <webElementGuid>4723da4b-f2fb-4455-b7c4-c2aaf0114fb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;app-container survey survey-combo&quot;]/div[@class=&quot;container main-content&quot;]/div[@class=&quot;part-header text-center&quot;]/div[@class=&quot;col-12 col-md-8 offset-md-2&quot;]/p[@class=&quot;text-start&quot;]</value>
+      <webElementGuid>69ab828d-4b02-47eb-b2a7-429cde4a5898</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div/div/p[2]</value>
+      <webElementGuid>0f0c4e8a-0470-4a92-b9f3-c3a159e45f01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ESAs are still protected under the Fair Housing Act'])[1]/preceding::p[1]</value>
+      <webElementGuid>0da44c3f-09cf-4971-996e-86d95d4383a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='As of 2021, airlines are no longer required to accept']/parent::*</value>
+      <webElementGuid>aca9c38a-de19-48ad-aad1-efc45d39308a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]</value>
+      <webElementGuid>5a2576fc-26e6-4301-a165-698197610b52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'As of 2021, airlines are no longer required to accept Emotional Support Animals (ESAs) for air travel. ESAs are treated as regular pets on flights and are subject to fees and restrictions.' or . = 'As of 2021, airlines are no longer required to accept Emotional Support Animals (ESAs) for air travel. ESAs are treated as regular pets on flights and are subject to fees and restrictions.')]</value>
+      <webElementGuid>5b20f9ea-f6ae-4a4e-b4a4-c4d03fbff1cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
