@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Checkea la letter housing</description>
+   <name>Checkout housing</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1b601760-26cd-46e3-ac9c-82dcd780c11f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>07fc823f-31ef-4cd9-bd85-4e34aeb52654</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'4242424242424242'</defaultValue>
+      <description></description>
+      <id>07fc823f-31ef-4cd9-bd85-4e34aeb52654</id>
+      <masked>false</masked>
+      <name>CCnumber</name>
+   </variable>
+</TestCaseEntity>
