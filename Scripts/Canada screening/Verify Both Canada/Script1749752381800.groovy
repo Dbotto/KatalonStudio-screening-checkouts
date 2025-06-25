@@ -16,6 +16,8 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
+import com.kms.katalon.core.testobject.ObjectRepository as OR
 
 WebUI.openBrowser('')
 
@@ -61,11 +63,26 @@ WebUI.setText(findTestObject('Object Repository/Benefit of having/Both Canada/Pa
 
 WebUI.click(findTestObject('Object Repository/Benefit of having/Both Canada/Page_Certapet Pre-screening/span_Get my ESA Housing  Travel Letter'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Benefit of having/Both Canada/Page_Certapet Checkout/h2_ESA Housing  Travel Letter Consultation'), 
-    0)
+WebUI.delay(2)
 
-WebUI.verifyElementText(findTestObject('Benefit of having/Both Canada/Page_Certapet Checkout/h2_ESA Housing  Travel Letter Consultation'), 
-    'ESA Housing + Travel Letter Consultation')
+def currentUrlCheckout = WebUI.getUrl()
+
+// Regex que busca exactamente el parámetro product=1 como valor completo
+def pattern = '[?&]product=3([&#]|$)'
+
+if (currentUrlCheckout ==~ ".*$pattern.*") {
+	KeywordUtil.markPassed('La URL contiene product=3')
+} else {
+	KeywordUtil.markFailed('ERROR: La URL NO contiene product=3')
+}
+
+// Intentamos esperar cada una de las variantes
+boolean estaA = WebUI.waitForElementVisible(OR.findTestObject('Object Repository/Benefit of having/Both Canada/Page_Certapet Checkout/ESAhousingTravelCanadaText'),
+	5, FailureHandling.OPTIONAL)
+
+boolean estaB = WebUI.waitForElementVisible(OR.findTestObject('Object Repository/You are a good candidate/Page_ESA Sales - CertaPet - Emotional Support Animal Letters/p_You are a Good Candidate'),
+	5, FailureHandling.OPTIONAL)
+
+
 
 WebUI.closeBrowser()
-

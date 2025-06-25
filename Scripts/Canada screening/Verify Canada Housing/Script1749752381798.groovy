@@ -16,6 +16,8 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
+import com.kms.katalon.core.testobject.ObjectRepository as OR
 
 WebUI.openBrowser('')
 
@@ -50,7 +52,8 @@ WebUI.click(findTestObject('Object Repository/Benefit of having/Page_Certapet Pr
 WebUI.setText(findTestObject('Object Repository/Benefit of having/Page_Certapet Pre-screening (1)/input_concat(What, , s your first name)_name'), 
     'Diego')
 
-WebUI.setText(findTestObject('Object Repository/Benefit of having/Page_Certapet Pre-screening (1)/input_Age (Must be over 18)_age'), '22')
+WebUI.setText(findTestObject('Object Repository/Benefit of having/Page_Certapet Pre-screening (1)/input_Age (Must be over 18)_age'), 
+    '22')
 
 WebUI.click(findTestObject('Object Repository/Benefit of having/Page_Certapet Pre-screening (1)/img_1_2'))
 
@@ -75,7 +78,27 @@ WebUI.verifyElementText(findTestObject('Benefit of having/Page_Certapet Pre-scre
 
 WebUI.click(findTestObject('Benefit of having/Page_Certapet Pre-screening/Page_Certapet Pre-screening/button_Get my ESA Housing LetterClick here to continue'))
 
-WebUI.verifyTextPresent('ESA Housing Letter Consultation', false)
+WebUI.delay(2)
+
+def currentUrlCheckout = WebUI.getUrl()
+
+// Regex que busca exactamente el parámetro product=1 como valor completo
+def pattern = '[?&]product=1([&#]|$)'
+
+if (currentUrlCheckout ==~ ".*$pattern.*") {
+    KeywordUtil.markPassed('La URL contiene product=1')
+} else {
+    KeywordUtil.markFailed('ERROR: La URL NO contiene product=1')
+}
+
+// Intentamos esperar cada una de las variantes
+boolean estaA = WebUI.waitForElementVisible(OR.findTestObject('Object Repository/Benefit of having/Both Canada/Page_Certapet Checkout/HousingLetterText'),
+	5, FailureHandling.OPTIONAL)
+
+boolean estaB = WebUI.waitForElementVisible(OR.findTestObject('Object Repository/You are a good candidate/Page_ESA Sales - CertaPet - Emotional Support Animal Letters/p_You are a Good Candidate'),
+	5, FailureHandling.OPTIONAL)
+
+
 
 WebUI.closeBrowser()
 

@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/h3</value>
+         <value>//h3[text()='I want to learn more about PSDs']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h3</value>
-      <webElementGuid>27b400e3-4d9e-46a2-a228-668cbaa991fa</webElementGuid>
+      <webElementGuid>e3894d71-16d3-4f87-ad29-b9d5d6894c49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>option-card-title option-card-title-small</value>
-      <webElementGuid>c7586a5f-bf82-4b01-ab33-3fcf06fb1b97</webElementGuid>
+      <webElementGuid>1f642576-efdf-45d5-b4c1-3e1a04d9979e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>I want to learn more about PSDs</value>
-      <webElementGuid>f50bd144-d7c0-446f-b9b2-7116ca3a16ef</webElementGuid>
+      <webElementGuid>233213e8-31f4-4015-9d98-148a17688025</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;app-container survey survey-travel&quot;]/div[@class=&quot;container main-content&quot;]/div[@class=&quot;part-content&quot;]/div[@class=&quot;options-container options-container-images form-section form-section-multiple mt-0&quot;]/div[@class=&quot;option-card&quot;]/div[@class=&quot;option-card-content&quot;]/h3[@class=&quot;option-card-title option-card-title-small&quot;]</value>
-      <webElementGuid>339ee9d4-8f91-4975-a30b-9c912a808030</webElementGuid>
+      <webElementGuid>69e72e81-2c4f-4c35-9626-c566e83a7c6f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div/div[2]/div/h3</value>
-      <webElementGuid>f2f0c7d7-c7ac-47e4-badc-043c14a2079f</webElementGuid>
+      <webElementGuid>1b97548c-48db-473a-be12-160c522bee2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='I want a PSD Letter recommendation'])[1]/following::h3[1]</value>
-      <webElementGuid>2a724910-cd34-46f6-99cf-0bd526657622</webElementGuid>
+      <webElementGuid>ed6f811e-1460-44b2-80d7-0087a15391db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Your dog is trained to perform specific tasks to assist with that condition.'])[1]/following::h3[2]</value>
-      <webElementGuid>49514a9a-7daf-4154-baba-0f4021f10e63</webElementGuid>
+      <webElementGuid>12d5a710-fdc4-4465-bc8a-417153dfc614</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Please choose an option'])[1]/preceding::h3[1]</value>
-      <webElementGuid>e181e7b3-03b7-47b3-99fe-a9ad475c6fab</webElementGuid>
+      <webElementGuid>4a51f2dc-783b-445f-a06d-942c919a9a5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::h3[1]</value>
-      <webElementGuid>d4e3b425-1f6e-49f4-a182-6b8554e630c8</webElementGuid>
+      <webElementGuid>a61c1618-eca2-497f-8451-a4cbcc32a3a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='I want to learn more about PSDs']/parent::*</value>
-      <webElementGuid>37c68953-c90e-42c1-9385-a82d2399f478</webElementGuid>
+      <webElementGuid>ddde22e5-3df8-47fa-8ae3-d1863618737c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/h3</value>
-      <webElementGuid>9c298505-948f-4695-935d-8df2352a74bc</webElementGuid>
+      <webElementGuid>ab81fac8-b8d7-4242-b2d4-5c07c94b60ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h3[(text() = 'I want to learn more about PSDs' or . = 'I want to learn more about PSDs')]</value>
-      <webElementGuid>4f33bd7b-8d0b-49d8-97c5-fc199cd682dc</webElementGuid>
+      <webElementGuid>35fe55e6-0a6c-44b4-9418-063ff04fab37</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -72,7 +72,6 @@ WebUI.click(findTestObject('Object Repository/EEuu path/Page_Certapet Pre-screen
 
 WebUI.waitForElementPresent(findTestObject('EEuu path/Page_Certapet Checkout/h2_ESA Housing Letter Consultation'), 0)
 
-
 //---------------------------------------------------------------------------
 // VERIFICA SI LA URL CONTIENE EL PARAMETRO product=1 
 //String currentUrlCheckout = WebUI.getUrl()
@@ -82,24 +81,20 @@ WebUI.waitForElementPresent(findTestObject('EEuu path/Page_Certapet Checkout/h2_
     KeywordUtil.markFailed('ERROR: La URL NO contiene ninguno')
 }*/
 //---------------------------------------------------------------------------
-
 //---------------------------------------------------------------------------
 // VERIFICA SI LA URL TIENE EL PARAMETRO EXACTO prodcut=13
-
 def currentUrlCheckout = WebUI.getUrl()
 
 // Regex que busca exactamente el parámetro product=1 como valor completo
-def pattern = /[?&]product=13([&#]|$)/
+def pattern = '[?&]product=13([&#]|$)'
 
-if (currentUrlCheckout ==~ /.*${pattern}.*/) {
-	KeywordUtil.markPassed('La URL contiene product=13')
+if (currentUrlCheckout ==~ ".*$pattern.*") {
+    KeywordUtil.markPassed('La URL contiene product=13')
 } else {
-	KeywordUtil.markFailed('ERROR: La URL NO contiene product=13')
+    KeywordUtil.markFailed('ERROR: La URL NO contiene product=13')
 }
+
 //---------------------------------------------------------------------------
-
-
-
 // Intentamos esperar cada una de las variantes
 boolean estaA = WebUI.waitForElementVisible(OR.findTestObject('Object Repository/EEuu path/Page_Certapet Checkout/H2_PSD_travel'), 
     5, FailureHandling.OPTIONAL)
